@@ -1,0 +1,10 @@
+Kabupaten_Kota	Laki-laki	Perempuan    
+Buleleng	398135	393678
+Denpasar	366301	359013
+Badung	274577	273614
+Gianyar	258455	256889
+Karangasem	249495	242907
+Tabanan	231448	230182
+Jembrana	158730	158334
+Bangli	130307	128414
+Klungkung	103657	103268   
